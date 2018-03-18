@@ -6,7 +6,7 @@
 	<groupId>com.raviraj.boot</groupId>
 	<artifactId>002-spring-boot-jsp</artifactId>
 	<version>1.0.0</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>002-spring-boot-jsp</name>
 	<description>Demo project for Spring Boot with JSP</description>
